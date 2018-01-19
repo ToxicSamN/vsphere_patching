@@ -94,6 +94,8 @@ celerybeat-schedule
 
 # development trash
 .idea/
+win_dev_venv/
 
 # ignore .gitignore
 .gitignore
+
