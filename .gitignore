@@ -96,6 +96,4 @@ celerybeat-schedule
 .idea/
 win_dev_venv/
 
-# ignore .gitignore
 .gitignore
-
