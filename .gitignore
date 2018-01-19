@@ -94,3 +94,6 @@ celerybeat-schedule
 
 # development trash
 .idea/
+
+# ignore .gitignore
+.gitignore
