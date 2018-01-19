@@ -17,6 +17,3 @@ __pycache__/
 
 # development trash
 .idea/
-win_dev_venv/
-
-.gitignore
