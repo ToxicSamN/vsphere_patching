@@ -95,5 +95,5 @@ celerybeat-schedule
 # development trash
 .idea/
 win_dev_venv/
-# do not merge .gitignore files from other branches
+
 .gitignore
