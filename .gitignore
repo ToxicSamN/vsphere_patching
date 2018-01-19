@@ -103,3 +103,5 @@ ENV/
 # development trash
 win_dev_venv/
 .idea/
+# do not merge .gitignore files from other branches
+.gitignore
